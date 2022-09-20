@@ -7,6 +7,8 @@ import java.util.*;
  *
  * Write a program to swap 2 numbers without a
  * temporary variable?
+ *
+ * @author Abdul Hashimi
  */
 
 public class CodingTask6
